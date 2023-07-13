@@ -1,1 +1,1 @@
-This repo is describe about Besics of Shell
+This repo is describing Basics of Bash
